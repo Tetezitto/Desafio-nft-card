@@ -17,7 +17,7 @@ O usuário deve ser capaz de:
 
 Abaixo está uma captura da minha solução:
 
-![Screenshot do projeto](../src/images/print-final-projeto.png)
+![Screenshot do projeto](./src/images/print-final-projeto.png)
 
 ---
 
